@@ -44,7 +44,7 @@ public class RumusTabungPert3 {
 
                 Double Volume = pi * (r * r) * t;
 
-                System.out.println("=--============");
+                System.out.println("===============");
                 System.out.println("Volume Tabung = " + Volume + "cm^3");
                 System.out.println("================");
             }
