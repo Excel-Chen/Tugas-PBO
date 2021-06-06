@@ -1,1 +1,3 @@
-# Tugas-PBO-UPH MEDAN-03082200002
+# Tugas PBO EXCEL 
+Kelas : 20TI2
+Univ : UPH MEDAN
