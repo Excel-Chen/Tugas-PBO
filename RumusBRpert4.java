@@ -76,7 +76,7 @@ public class RumusBRpert4 {
                 System.out.println("____________________________________");
 
             }
-            // p == 3 , Exit
+            // p == 4 , Exit
             else if (p == 4) {
                 System.out.println("Exit Program");
                 System.exit(0);
